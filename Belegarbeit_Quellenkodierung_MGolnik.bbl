@@ -1,0 +1,187 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.1 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated as
+% required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+\datalist[entry]{anyt/global//global/global}
+  \entry{MMK}{online}{}
+    \name{author}{1}{}{%
+      {{hash=BB}{%
+         family={Bross},
+         familyi={B\bibinitperiod},
+         given={Benjamin},
+         giveni={B\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {deutsch}%
+    }
+    \list{organization}{1}{%
+      {Frauenhofer Heinrich-Hertz Institute}%
+    }
+    \keyw{online}
+    \strng{namehash}{BB1}
+    \strng{fullhash}{BB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Bro21}
+    \field{sortinit}{B}
+    \field{sortinithash}{B}
+    \field{title}{Bildkompression}
+    \verb{url}
+    \verb https://moodle.htw-berlin.de/pluginfile.php/1216458/mod_resource/cont
+    \verb ent/2/MMK_SoSe2021_3_Bildkompression.pdf
+    \endverb
+    \field{month}{05}
+    \field{year}{2021}
+  \endentry
+
+  \entry{ITWissen.info}{article}{}
+    \name{author}{1}{}{%
+      {{hash=GDB}{%
+         family={GmbH},
+         familyi={G\bibinitperiod},
+         given={DATACOM\bibnamedelima Buchverlag},
+         giveni={D\bibinitperiod\bibinitdelim B\bibinitperiod},
+      }}%
+    }
+    \keyw{online}
+    \strng{namehash}{GDB1}
+    \strng{fullhash}{GDB1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Gmb12}
+    \field{sortinit}{G}
+    \field{sortinithash}{G}
+    \field{title}{Lauflängencodierung}
+    \verb{url}
+    \verb https://www.itwissen.info/RLE-run-length-encoding-Lauflaengencodierun
+    \verb g.html
+    \endverb
+    \field{month}{10}
+    \field{year}{2012}
+  \endentry
+
+  \entry{kocerheiztech}{article}{}
+    \name{author}{1}{}{%
+      {{hash=kh}{%
+         prefix={kocer},
+         prefixi={k\bibinitperiod},
+         family={heiztech},
+         familyi={h\bibinitperiod},
+      }}%
+    }
+    \keyw{image}
+    \strng{namehash}{hk1}
+    \strng{fullhash}{hk1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{hei}
+    \field{sortinit}{H}
+    \field{sortinithash}{H}
+    \field{title}{Funktionsweise einer Fußbodenheizung}
+    \verb{url}
+    \verb https://www.kocer-heiztech.at/blog/fussbodenheizungen/
+    \endverb
+  \endentry
+
+  \entry{Lange2021}{online}{}
+    \name{author}{1}{}{%
+      {{hash=LPDC}{%
+         family={Lange},
+         familyi={L\bibinitperiod},
+         given={Prof. Dr.\bibnamedelima Christoph},
+         giveni={P\bibinitperiod\bibinitdelim D\bibinitperiod\bibinitdelim
+  C\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {deutsch}%
+    }
+    \list{organization}{1}{%
+      {HTW}%
+    }
+    \keyw{online}
+    \strng{namehash}{LPDC1}
+    \strng{fullhash}{LPDC1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Lan21}
+    \field{sortinit}{L}
+    \field{sortinithash}{L}
+    \field{title}{Einführung in die Informations- undKodierungstheorie I}
+    \verb{url}
+    \verb https://moodle.htw-berlin.de/pluginfile.php/1361027/mod_resource/cont
+    \verb ent/1/SNT_HTW_Lange_WS_2021_22_04_InfKodTheorie_1.pdf
+    \endverb
+    \field{month}{11}
+    \field{year}{2021}
+  \endentry
+
+  \entry{rostfrank}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=RF}{%
+         family={Rost},
+         familyi={R\bibinitperiod},
+         given={Frank},
+         giveni={F\bibinitperiod},
+      }}%
+    }
+    \keyw{image}
+    \strng{namehash}{RF1}
+    \strng{fullhash}{RF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Ros13}
+    \field{sortinit}{R}
+    \field{sortinithash}{R}
+    \field{howpublished}{Internet}
+    \field{title}{JPEG - Joint Photographic Expert Group}
+    \verb{url}
+    \verb http://informatik.rostfrank.de/info/lex04/jpeg.html
+    \endverb
+    \field{month}{10}
+    \field{year}{2013}
+  \endentry
+
+  \entry{IONOS}{article}{}
+    \name{author}{1}{}{%
+      {{hash=SI}{%
+         family={SE},
+         familyi={S\bibinitperiod},
+         given={IONOS},
+         giveni={I\bibinitperiod},
+      }}%
+    }
+    \keyw{online}
+    \strng{namehash}{SI1}
+    \strng{fullhash}{SI1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{SE21}
+    \field{sortinit}{S}
+    \field{sortinithash}{S}
+    \field{title}{Datenreduktion durch Deduplikation und Kompression}
+    \verb{url}
+    \verb https://www.ionos.de/digitalguide/server/knowhow/datenreduktion-durch
+    \verb -deduplikation-und-kompression/
+    \endverb
+    \field{journaltitle}{Digital Guide IONOS by 1&1}
+    \field{month}{01}
+    \field{year}{2021}
+  \endentry
+\enddatalist
+\endinput

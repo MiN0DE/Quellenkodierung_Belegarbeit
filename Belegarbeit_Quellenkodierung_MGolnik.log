@@ -1,0 +1,731 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12.10) (preloaded format=pdflatex 2022.1.8)  16 JAN 2022 19:46
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**./Belegarbeit_Quellenkodierung_MGolnik.tex
+(Belegarbeit_Quellenkodierung_MGolnik.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2021-11-22>
+(C:\Users\MiN0DE\AppData\Local\Programs\MiKTeX\tex/latex/base\report.cls
+Document Class: report 2021/10/04 v1.4n Standard LaTeX document class
+(C:\Users\MiN0DE\AppData\Local\Programs\MiKTeX\tex/latex/base\size11.clo
+File: size11.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count183
+\c@chapter=\count184
+\c@section=\count185
+\c@subsection=\count186
+\c@subsubsection=\count187
+\c@paragraph=\count188
+\c@subparagraph=\count189
+\c@figure=\count190
+\c@table=\count191
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(C:\Users\MiN0DE\AppData\Local\Programs\MiKTeX\tex/generic/babel\babel.sty
+Package: babel 2021/11/29 3.67 The Babel package
+\babel@savecnt=\count192
+\U@D=\dimen139
+\l@unhyphenated=\language84
+
+(C:\Users\MiN0DE\AppData\Local\Programs\MiKTeX\tex/generic/babel\txtbabel.def)
+\bbl@readstream=\read2
+\bbl@dirlevel=\count193
+
+*************************************
+* Local config file bblopts.cfg used
+*
+(C:\Users\MiN0DE\AppData\Local\Programs\MiKTeX\tex/latex/arabi\bblopts.cfg
+File: bblopts.cfg 2005/09/08 v0.1 add Arabic and Farsi to "declared" options of
+ babel
+)
+(C:\Users\MiN0DE\AppData\Local\Programs\MiKTeX\tex/latex/babel-german\ngerman.l
+df
+Language: ngerman 2021/02/27 v2.13 German support for babel (post-1996 orthogra
+phy)
+
+(C:\Users\MiN0DE\AppData\Local\Programs\MiKTeX\tex/latex/babel-german\ngermanb.
+ldf
+Language: ngermanb 2021/02/27 v2.13 German support for babel (post-1996 orthogr
+aphy)
+Package babel Info: Making " an active character on input line 122.
+))) (C:\Users\MiN0DE\AppData\Local\Programs\MiKTeX\tex/latex/float\float.sty
+Package: float 2001/11/08 v1.3d Float enhancements (AL)
+\c@float@type=\count194
+\float@exts=\toks16
+\float@box=\box50
+\@float@everytoks=\toks17
+\@floatcapt=\box51
+) (C:\Users\MiN0DE\AppData\Local\Programs\MiKTeX\tex/latex/base\inputenc.sty
+Package: inputenc 2021/02/14 v1.3d Input encoding file
+\inpenc@prehook=\toks18
+\inpenc@posthook=\toks19
+)
+(C:\Users\MiN0DE\AppData\Local\Programs\MiKTeX\tex/latex/base\fontenc.sty
+Package: fontenc 2021/04/29 v2.0v Standard LaTeX package
+)
+(C:\Users\MiN0DE\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsmath.sty
+Package: amsmath 2021/10/15 v2.17l AMS math features
+\@mathmargin=\skip49
+
+For additional information on amsmath, use the `?' option.
+(C:\Users\MiN0DE\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amstext.sty
+Package: amstext 2021/08/26 v2.01 AMS text
+
+(C:\Users\MiN0DE\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsgen.sty
+File: amsgen.sty 1999/11/30 v2.0 generic functions
+\@emptytoks=\toks20
+\ex@=\dimen140
+))
+(C:\Users\MiN0DE\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsbsy.sty
+Package: amsbsy 1999/11/29 v1.2d Bold Symbols
+\pmbraise@=\dimen141
+)
+(C:\Users\MiN0DE\AppData\Local\Programs\MiKTeX\tex/latex/amsmath\amsopn.sty
+Package: amsopn 2021/08/26 v2.02 operator names
+)
+\inf@bad=\count195
+LaTeX Info: Redefining \frac on input line 234.
+\uproot@=\count196
+\leftroot@=\count197
+LaTeX Info: Redefining \overline on input line 399.
+\classnum@=\count198
+\DOTSCASE@=\count199
+LaTeX Info: Redefining \ldots on input line 496.
+LaTeX Info: Redefining \dots on input line 499.
+LaTeX Info: Redefining \cdots on input line 620.
+\Mathstrutbox@=\box52
+\strutbox@=\box53
+\big@size=\dimen142
+LaTeX Font Info:    Redeclaring font encoding OML on input line 743.
+LaTeX Font Info:    Redeclaring font encoding OMS on input line 744.
+\macc@depth=\count266
+\c@MaxMatrixCols=\count267
+\dotsspace@=\muskip16
+\c@parentequation=\count268
+\dspbrk@lvl=\count269
+\tag@help=\toks21
+\row@=\count270
+\column@=\count271
+\maxfields@=\count272
+\andhelp@=\toks22
+\eqnshift@=\dimen143
+\alignsep@=\dimen144
+\tagshift@=\dimen145
+\tagwidth@=\dimen146
+\totwidth@=\dimen147
+\lineht@=\dimen148
+\@envbody=\toks23
+\multlinegap=\skip50
+\multlinetaggap=\skip51
+\mathdisplay@stack=\toks24
+LaTeX Info: Redefining \[ on input line 2938.
+LaTeX Info: Redefining \] on input line 2939.
+)
+(C:\Users\MiN0DE\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amssymb.sty
+Package: amssymb 2013/01/14 v3.01 AMS font symbols
+
+(C:\Users\MiN0DE\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\amsfonts.sty
+Package: amsfonts 2013/01/14 v3.01 Basic AMSFonts support
+\symAMSa=\mathgroup4
+\symAMSb=\mathgroup5
+LaTeX Font Info:    Redeclaring math symbol \hbar on input line 98.
+LaTeX Font Info:    Overwriting math alphabet `\mathfrak' in version `bold'
+(Font)                  U/euf/m/n --> U/euf/b/n on input line 106.
+))
+(C:\Users\MiN0DE\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\MiN0DE\AppData\Local\Programs\MiKTeX\tex/latex/graphics\keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks25
+)
+(C:\Users\MiN0DE\AppData\Local\Programs\MiKTeX\tex/latex/graphics\graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(C:\Users\MiN0DE\AppData\Local\Programs\MiKTeX\tex/latex/graphics\trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(C:\Users\MiN0DE\AppData\Local\Programs\MiKTeX\tex/latex/graphics-cfg\graphics.
+cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(C:\Users\MiN0DE\AppData\Local\Programs\MiKTeX\tex/latex/graphics-def\pdftex.de
+f
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen149
+\Gin@req@width=\dimen150
+)
+(C:\Users\MiN0DE\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.sty
+Package: csquotes 2021-02-22 v5.2l context-sensitive quotations (JAW)
+
+(C:\Users\MiN0DE\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
+Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
+\etb@tempcnta=\count273
+)
+\csq@reset=\count274
+\csq@gtype=\count275
+\csq@glevel=\count276
+\csq@qlevel=\count277
+\csq@maxlvl=\count278
+\csq@tshold=\count279
+\csq@ltx@everypar=\toks26
+(C:\Users\MiN0DE\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.def
+File: csquotes.def 2021-02-22 v5.2l csquotes generic definitions (JAW)
+)
+Package csquotes Info: Trying to load configuration file 'csquotes.cfg'...
+Package csquotes Info: ... configuration file loaded successfully.
+(C:\Users\MiN0DE\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.cfg
+File: csquotes.cfg 
+))
+(C:\Users\MiN0DE\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.sty
+Package: biblatex 2020/12/31 v3.16 programmable bibliographies (PK/MW)
+
+(C:\Users\MiN0DE\AppData\Local\Programs\MiKTeX\tex/generic/pdftexcmds\pdftexcmd
+s.sty
+Package: pdftexcmds 2020-06-27 v0.33 Utility functions of pdfTeX for LuaTeX (HO
+)
+
+(C:\Users\MiN0DE\AppData\Local\Programs\MiKTeX\tex/generic/infwarerr\infwarerr.
+sty
+Package: infwarerr 2019/12/03 v1.5 Providing info/warning/error messages (HO)
+) (C:\Users\MiN0DE\AppData\Local\Programs\MiKTeX\tex/generic/iftex\iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+)
+(C:\Users\MiN0DE\AppData\Local\Programs\MiKTeX\tex/generic/ltxcmds\ltxcmds.sty
+Package: ltxcmds 2020-05-10 v1.25 LaTeX kernel commands for general use (HO)
+)
+Package pdftexcmds Info: \pdf@primitive is available.
+Package pdftexcmds Info: \pdf@ifprimitive is available.
+Package pdftexcmds Info: \pdfdraftmode found.
+)
+(C:\Users\MiN0DE\AppData\Local\Programs\MiKTeX\tex/latex/kvoptions\kvoptions.st
+y
+Package: kvoptions 2020-10-07 v3.14 Key value format for package options (HO)
+
+(C:\Users\MiN0DE\AppData\Local\Programs\MiKTeX\tex/generic/kvsetkeys\kvsetkeys.
+sty
+Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
+))
+(C:\Users\MiN0DE\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.sty
+Package: logreq 2010/08/04 v1.0 xml request logger
+\lrq@indent=\count280
+
+(C:\Users\MiN0DE\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.def
+File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
+))
+(C:\Users\MiN0DE\AppData\Local\Programs\MiKTeX\tex/latex/base\ifthen.sty
+Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
+)
+(C:\Users\MiN0DE\AppData\Local\Programs\MiKTeX\tex/latex/url\url.sty
+\Urlmuskip=\muskip17
+Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
+)
+\c@tabx@nest=\count281
+\c@listtotal=\count282
+\c@listcount=\count283
+\c@liststart=\count284
+\c@liststop=\count285
+\c@citecount=\count286
+\c@citetotal=\count287
+\c@multicitecount=\count288
+\c@multicitetotal=\count289
+\c@instcount=\count290
+\c@maxnames=\count291
+\c@minnames=\count292
+\c@maxitems=\count293
+\c@minitems=\count294
+\c@citecounter=\count295
+\c@maxcitecounter=\count296
+\c@savedcitecounter=\count297
+\c@uniquelist=\count298
+\c@uniquename=\count299
+\c@refsection=\count300
+\c@refsegment=\count301
+\c@maxextratitle=\count302
+\c@maxextratitleyear=\count303
+\c@maxextraname=\count304
+\c@maxextradate=\count305
+\c@maxextraalpha=\count306
+\c@abbrvpenalty=\count307
+\c@highnamepenalty=\count308
+\c@lownamepenalty=\count309
+\c@maxparens=\count310
+\c@parenlevel=\count311
+\blx@tempcnta=\count312
+\blx@tempcntb=\count313
+\blx@tempcntc=\count314
+\blx@maxsection=\count315
+\blx@maxsegment@0=\count316
+\blx@notetype=\count317
+\blx@parenlevel@text=\count318
+\blx@parenlevel@foot=\count319
+\blx@sectionciteorder@0=\count320
+\blx@entrysetcounter=\count321
+\blx@biblioinstance=\count322
+\labelnumberwidth=\skip52
+\labelalphawidth=\skip53
+\biblabelsep=\skip54
+\bibitemsep=\skip55
+\bibnamesep=\skip56
+\bibinitsep=\skip57
+\bibparsep=\skip58
+\bibhang=\skip59
+\blx@bcfin=\read3
+\blx@bcfout=\write3
+\blx@langwohyphens=\language85
+\c@mincomprange=\count323
+\c@maxcomprange=\count324
+\c@mincompwidth=\count325
+Package biblatex Info: Trying to load biblatex default data model...
+Package biblatex Info: ... file 'blx-dm.def' found.
+
+(C:\Users\MiN0DE\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-dm.def
+File: blx-dm.def 2020/12/31 v3.16 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load biblatex style data model...
+Package biblatex Info: ... file 'alphabetic.dbx' not found.
+Package biblatex Info: Trying to load biblatex custom data model...
+Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
+\c@afterword=\count326
+\c@savedafterword=\count327
+\c@annotator=\count328
+\c@savedannotator=\count329
+\c@author=\count330
+\c@savedauthor=\count331
+\c@bookauthor=\count332
+\c@savedbookauthor=\count333
+\c@commentator=\count334
+\c@savedcommentator=\count335
+\c@editor=\count336
+\c@savededitor=\count337
+\c@editora=\count338
+\c@savededitora=\count339
+\c@editorb=\count340
+\c@savededitorb=\count341
+\c@editorc=\count342
+\c@savededitorc=\count343
+\c@foreword=\count344
+\c@savedforeword=\count345
+\c@holder=\count346
+\c@savedholder=\count347
+\c@introduction=\count348
+\c@savedintroduction=\count349
+\c@namea=\count350
+\c@savednamea=\count351
+\c@nameb=\count352
+\c@savednameb=\count353
+\c@namec=\count354
+\c@savednamec=\count355
+\c@translator=\count356
+\c@savedtranslator=\count357
+\c@shortauthor=\count358
+\c@savedshortauthor=\count359
+\c@shorteditor=\count360
+\c@savedshorteditor=\count361
+\c@labelname=\count362
+\c@savedlabelname=\count363
+\c@institution=\count364
+\c@savedinstitution=\count365
+\c@lista=\count366
+\c@savedlista=\count367
+\c@listb=\count368
+\c@savedlistb=\count369
+\c@listc=\count370
+\c@savedlistc=\count371
+\c@listd=\count372
+\c@savedlistd=\count373
+\c@liste=\count374
+\c@savedliste=\count375
+\c@listf=\count376
+\c@savedlistf=\count377
+\c@location=\count378
+\c@savedlocation=\count379
+\c@organization=\count380
+\c@savedorganization=\count381
+\c@origlocation=\count382
+\c@savedoriglocation=\count383
+\c@origpublisher=\count384
+\c@savedorigpublisher=\count385
+\c@publisher=\count386
+\c@savedpublisher=\count387
+\c@language=\count388
+\c@savedlanguage=\count389
+\c@origlanguage=\count390
+\c@savedoriglanguage=\count391
+\c@pageref=\count392
+\c@savedpageref=\count393
+\shorthandwidth=\skip60
+\shortjournalwidth=\skip61
+\shortserieswidth=\skip62
+\shorttitlewidth=\skip63
+\shortauthorwidth=\skip64
+\shorteditorwidth=\skip65
+\locallabelnumberwidth=\skip66
+\locallabelalphawidth=\skip67
+\localshorthandwidth=\skip68
+\localshortjournalwidth=\skip69
+\localshortserieswidth=\skip70
+\localshorttitlewidth=\skip71
+\localshortauthorwidth=\skip72
+\localshorteditorwidth=\skip73
+Package biblatex Info: Trying to load compatibility code...
+Package biblatex Info: ... file 'blx-compat.def' found.
+
+(C:\Users\MiN0DE\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-compat.de
+f
+File: blx-compat.def 2020/12/31 v3.16 biblatex compatibility (PK/MW)
+)
+Package biblatex Info: Trying to load BibTeX backend compatibility...
+Package biblatex Info: ... file 'blx-bibtex.def' found.
+
+(C:\Users\MiN0DE\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-bibtex.de
+f
+File: blx-bibtex.def 2020/12/31 v3.16 biblatex compatibility (PK/MW)
+
+
+Package biblatex Warning: Using fall-back BibTeX(8) backend:
+(biblatex)                functionality may be reduced/unavailable.
+
+)
+Package biblatex Info: Trying to load generic definitions...
+Package biblatex Info: ... file 'biblatex.def' found.
+
+(C:\Users\MiN0DE\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.def
+File: biblatex.def 2020/12/31 v3.16 biblatex compatibility (PK/MW)
+\c@textcitecount=\count394
+\c@textcitetotal=\count395
+\c@textcitemaxnames=\count396
+\c@biburlbigbreakpenalty=\count397
+\c@biburlbreakpenalty=\count398
+\c@biburlnumpenalty=\count399
+\c@biburlucpenalty=\count400
+\c@biburllcpenalty=\count401
+\biburlbigskip=\muskip18
+\biburlnumskip=\muskip19
+\biburlucskip=\muskip20
+\biburllcskip=\muskip21
+\c@smartand=\count402
+)
+Package biblatex Info: Trying to load natbib compatibility...
+Package biblatex Info: ... file 'blx-natbib.def' found.
+
+(C:\Users\MiN0DE\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-natbib.de
+f
+File: blx-natbib.def 2020/12/31 v3.16 biblatex compatibility (PK/MW)
+Package biblatex Info: Delimiter 'nameyeardelim' in context '' already defined,
+ overwriting.
+)
+Package biblatex Info: Trying to load bibliography style 'alphabetic'...
+Package biblatex Info: ... file 'alphabetic.bbx' found.
+
+(C:\Users\MiN0DE\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\alphabeti
+c.bbx
+File: alphabetic.bbx 2020/12/31 v3.16 biblatex bibliography style (PK/MW)
+Package biblatex Info: Trying to load bibliography style 'standard'...
+Package biblatex Info: ... file 'standard.bbx' found.
+
+(C:\Users\MiN0DE\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\standard.
+bbx
+File: standard.bbx 2020/12/31 v3.16 biblatex bibliography style (PK/MW)
+\c@bbx:relatedcount=\count403
+\c@bbx:relatedtotal=\count404
+))
+Package biblatex Info: Trying to load citation style 'alphabetic'...
+Package biblatex Info: ... file 'alphabetic.cbx' found.
+
+(C:\Users\MiN0DE\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/cbx\alphabeti
+c.cbx
+File: alphabetic.cbx 2020/12/31 v3.16 biblatex citation style (PK/MW)
+Package biblatex Info: Redefining '\cite'.
+Package biblatex Info: Redefining '\parencite'.
+Package biblatex Info: Redefining '\footcite'.
+Package biblatex Info: Redefining '\footcitetext'.
+Package biblatex Info: Redefining '\smartcite'.
+Package biblatex Info: Redefining '\textcite'.
+Package biblatex Info: Redefining '\textcites'.
+Package biblatex Info: Redefining '\cites'.
+Package biblatex Info: Redefining '\parencites'.
+Package biblatex Info: Redefining '\smartcites'.
+)
+Package biblatex Info: Trying to load configuration file...
+Package biblatex Info: ... file 'biblatex.cfg' found.
+
+(C:\Users\MiN0DE\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.cfg
+File: biblatex.cfg 
+))
+Package csquotes Info: Checking for multilingual support...
+Package csquotes Info: ... found 'babel' package.
+Package csquotes Info: Adjusting default style.
+Package csquotes Info: Redefining alias 'default' -> 'ngerman'.
+
+(C:\Users\MiN0DE\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pd
+ftex.def
+File: l3backend-pdftex.def 2021-12-14 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count405
+\l__pdf_internal_box=\box54
+) (Belegarbeit_Quellenkodierung_MGolnik.aux)
+\openout1 = `Belegarbeit_Quellenkodierung_MGolnik.aux'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
+LaTeX Font Info:    ... okay on input line 23.
+
+(C:\Users\MiN0DE\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.m
+kii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count406
+\scratchdimen=\dimen151
+\scratchbox=\box55
+\nofMPsegments=\count407
+\nofMParguments=\count408
+\everyMPshowfont=\toks27
+\MPscratchCnt=\count409
+\MPscratchDim=\dimen152
+\MPnumerator=\count410
+\makeMPintoPDFobject=\count411
+\everyMPtoPDFconversion=\toks28
+)
+(C:\Users\MiN0DE\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-
+base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+
+(C:\Users\MiN0DE\AppData\Local\Programs\MiKTeX\tex/latex/grfext\grfext.sty
+Package: grfext 2019/12/03 v1.3 Manage graphics extensions (HO)
+
+(C:\Users\MiN0DE\AppData\Local\Programs\MiKTeX\tex/generic/kvdefinekeys\kvdefin
+ekeys.sty
+Package: kvdefinekeys 2019-12-19 v1.6 Define keys (HO)
+))
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+Package grfext Info: Graphics extension search list:
+(grfext)             [.pdf,.png,.jpg,.mps,.jpeg,.jbig2,.jb2,.PDF,.PNG,.JPG,.JPE
+G,.JBIG2,.JB2,.eps]
+(grfext)             \AppendGraphicsExtensions on input line 504.
+
+(C:\Users\MiN0DE\AppData\Local\Programs\MiKTeX\tex/latex/00miktex\epstopdf-sys.
+cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+Package biblatex Info: Trying to load language 'ngerman'...
+Package biblatex Info: ... file 'ngerman.lbx' found.
+
+(C:\Users\MiN0DE\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\ngerman.l
+bx
+File: ngerman.lbx 2020/12/31 v3.16 biblatex localization (PK/MW)
+Package biblatex Info: Trying to load language 'german'...
+Package biblatex Info: ... file 'german.lbx' found.
+
+(C:\Users\MiN0DE\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\german.lb
+x
+File: german.lbx 2020/12/31 v3.16 biblatex localization (PK/MW)
+)
+Package biblatex Info: Trying to load language 'german'...
+Package biblatex Info: ... file 'german.lbx' found.
+
+(C:\Users\MiN0DE\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/lbx\german.lb
+x
+File: german.lbx 2020/12/31 v3.16 biblatex localization (PK/MW)
+))
+Package biblatex Info: Input encoding 'utf8' detected.
+Package biblatex Info: Automatic encoding selection.
+(biblatex)             Assuming data encoding 'utf8'.
+Package biblatex Info: Input encoding 'utf8' specified.
+Package biblatex Info: Data encoding 'utf8' specified.
+(biblatex)             No need to reencode data.
+Package biblatex Info: Document encoding is UTF8 ....
+ (C:\Users\MiN0DE\AppData\Local\Programs\MiKTeX\tex/latex/l3kernel\expl3.sty
+Package: expl3 2021-11-22 L3 programming layer (loader) 
+)
+Package biblatex Info: ... and expl3
+(biblatex)             2021-11-22 L3 programming layer (loader) 
+(biblatex)             is new enough (at least 2020/04/06),
+(biblatex)             setting 'casechanger=expl3'.
+
+(C:\Users\MiN0DE\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\blx-case-expl
+3.sty
+(C:\Users\MiN0DE\AppData\Local\Programs\MiKTeX\tex/latex/l3packages/xparse\xpar
+se.sty
+Package: xparse 2021-11-12 L3 Experimental document command parser
+)
+Package: blx-case-expl3 2020/12/31 v3.16 expl3 case changing code for biblatex
+)
+\openout3 = `Belegarbeit_Quellenkodierung_MGolnik-blx.bib'.
+
+Package biblatex Info: Trying to load bibliographic data...
+Package biblatex Info: ... file 'Belegarbeit_Quellenkodierung_MGolnik.bbl' foun
+d.
+ (Belegarbeit_Quellenkodierung_MGolnik.bbl)
+Package biblatex Info: Reference section=0 on input line 23.
+Package biblatex Info: Reference segment=0 on input line 23.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 25.
+
+
+(C:\Users\MiN0DE\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 25.
+
+
+(C:\Users\MiN0DE\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+)
+[1
+
+{C:/Users/MiN0DE/AppData/Local/MiKTeX/fonts/map/pdftex/pdftex.map}]
+(Belegarbeit_Quellenkodierung_MGolnik.toc)
+\tf@toc=\write4
+\openout4 = `Belegarbeit_Quellenkodierung_MGolnik.toc'.
+
+ [1
+
+]
+Kapitel 1.
+[2
+
+]
+Kapitel 2.
+[3
+
+]
+Kapitel 3.
+<MMK_RLE.png, id=22, 553.56813pt x 224.33812pt>
+File: MMK_RLE.png Graphic file (type png)
+<use MMK_RLE.png>
+Package pdftex.def Info: MMK_RLE.png  used on input line 70.
+(pdftex.def)             Requested size: 270.0pt x 109.42001pt.
+[4
+
+ <./MMK_RLE.png>]
+<alpha_ziffer.png, id=32, 256.45813pt x 100.375pt>
+File: alpha_ziffer.png Graphic file (type png)
+<use alpha_ziffer.png>
+Package pdftex.def Info: alpha_ziffer.png  used on input line 94.
+(pdftex.def)             Requested size: 270.0pt x 105.68324pt.
+ [5 <./alpha_ziffer.png>]
+<zickzack.png, id=37, 220.825pt x 220.825pt>
+File: zickzack.png Graphic file (type png)
+<use zickzack.png>
+Package pdftex.def Info: zickzack.png  used on input line 128.
+(pdftex.def)             Requested size: 90.0pt x 89.9997pt.
+<Mäander.png, id=38, 117.43875pt x 144.54pt>
+File: Mäander.png Graphic file (type png)
+<use Mäander.png>
+Package pdftex.def Info: Mäander.png  used on input line 137.
+(pdftex.def)             Requested size: 90.0pt x 110.76901pt.
+<g_h_Effizienz.png, id=39, 462.97969pt x 238.64156pt>
+File: g_h_Effizienz.png Graphic file (type png)
+<use g_h_Effizienz.png>
+Package pdftex.def Info: g_h_Effizienz.png  used on input line 151.
+(pdftex.def)             Requested size: 270.0pt x 139.17323pt.
+ [6 <./zickzack.png> <./Mäander.png>] [7 <./g_h_Effizienz.png>]
+Kapitel 4.
+[8
+
+]
+Kapitel 5.
+[9
+
+] (Belegarbeit_Quellenkodierung_MGolnik.lof)
+\tf@lof=\write5
+\openout5 = `Belegarbeit_Quellenkodierung_MGolnik.lof'.
+
+ [10
+
+]
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 1
+80.
+
+(C:\Users\MiN0DE\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmtt.fd
+File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
+)
+Overfull \hbox (14.27512pt too wide) in paragraph at lines 180--180
+\T1/cmtt/m/n/10.95 moodle . htw -[] berlin . de / pluginfile . php / 1361027 / 
+mod _ resource /
+ []
+
+! Misplaced alignment tab character &.
+<argument> Digital Guide IONOS by 1&
+                                    1
+l.180 ... keyword={online}, title={Onlinequellen}]
+                                                  \clearpage
+I can't figure out why you would want to use a tab mark
+here. If you just want an ampersand, the remedy is
+simple: Just type `I\&' now. But if some right brace
+up above has ended a previous alignment prematurely,
+you're probably due for more error messages, and you
+might try typing `S' now just to see what is salvageable.
+
+
+Overfull \hbox (8.61674pt too wide) in paragraph at lines 180--180
+\T1/cmtt/m/n/10.95 www . ionos . de / digitalguide / server / knowhow / datenre
+duktion -[]
+ []
+
+[11
+
+]
+Overfull \hbox (24.92212pt too wide) in paragraph at lines 181--181
+\T1/cmr/m/sc/10.95 url\T1/cmr/m/n/10.95 : $\T1/cmtt/m/n/10.95 https : / / www .
+ kocer -[] heiztech . at / blog / fussbodenheizungen/$\T1/cmr/m/n/10.95 . 
+ []
+
+[12
+
+
+] (Belegarbeit_Quellenkodierung_MGolnik.aux)
+Package logreq Info: Writing requests to 'Belegarbeit_Quellenkodierung_MGolnik.
+run.xml'.
+\openout1 = `Belegarbeit_Quellenkodierung_MGolnik.run.xml'.
+
+ ) 
+Here is how much of TeX's memory you used:
+ 12639 strings out of 478621
+ 233641 string characters out of 2843730
+ 746541 words of memory out of 3000000
+ 30578 multiletter control sequences out of 15000+600000
+ 424628 words of font info for 78 fonts, out of 8000000 for 9000
+ 1143 hyphenation exceptions out of 8191
+ 60i,8n,67p,1880b,2241s stack positions out of 5000i,500n,10000p,200000b,80000s
+{C:/Users/MiN0DE/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/cm-super/cm-su
+per-t1.enc}{C:/Users/MiN0DE/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/cm-su
+per/cm-super-ts1.enc}<C:/Users/MiN0DE/AppData/Local/Programs/MiKTeX/fonts/type1
+/public/cm-super/sfbx1095.pfb><C:/Users/MiN0DE/AppData/Local/Programs/MiKTeX/fo
+nts/type1/public/cm-super/sfbx1440.pfb><C:/Users/MiN0DE/AppData/Local/Programs/
+MiKTeX/fonts/type1/public/cm-super/sfbx1728.pfb><C:/Users/MiN0DE/AppData/Local/
+Programs/MiKTeX/fonts/type1/public/cm-super/sfbx2074.pfb><C:/Users/MiN0DE/AppDa
+ta/Local/Programs/MiKTeX/fonts/type1/public/cm-super/sfbx2488.pfb><C:/Users/MiN
+0DE/AppData/Local/Programs/MiKTeX/fonts/type1/public/cm-super/sfcc1095.pfb><C:/
+Users/MiN0DE/AppData/Local/Programs/MiKTeX/fonts/type1/public/cm-super/sfrm0600
+.pfb><C:/Users/MiN0DE/AppData/Local/Programs/MiKTeX/fonts/type1/public/cm-super
+/sfrm0800.pfb><C:/Users/MiN0DE/AppData/Local/Programs/MiKTeX/fonts/type1/public
+/cm-super/sfrm0900.pfb><C:/Users/MiN0DE/AppData/Local/Programs/MiKTeX/fonts/typ
+e1/public/cm-super/sfrm1095.pfb><C:/Users/MiN0DE/AppData/Local/Programs/MiKTeX/
+fonts/type1/public/cm-super/sfrm1200.pfb><C:/Users/MiN0DE/AppData/Local/Program
+s/MiKTeX/fonts/type1/public/cm-super/sfrm1728.pfb><C:/Users/MiN0DE/AppData/Loca
+l/Programs/MiKTeX/fonts/type1/public/cm-super/sfti1095.pfb><C:/Users/MiN0DE/App
+Data/Local/Programs/MiKTeX/fonts/type1/public/cm-super/sftt1095.pfb>
+Output written on Belegarbeit_Quellenkodierung_MGolnik.pdf (13 pages, 413437 by
+tes).
+PDF statistics:
+ 130 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 26 words of extra memory for PDF output out of 10000 (max. 10000000)
+
