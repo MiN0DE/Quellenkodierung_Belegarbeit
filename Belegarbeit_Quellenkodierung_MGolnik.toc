@@ -11,14 +11,12 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {3.2}Vor- und Nachteile gegenüber anderen Verfahren}{5}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.3}Einsatz}{6}{}%
+\contentsline {section}{\numberline {3.3}Einsatz \& Anwendungsbeispiele}{6}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.4}Anwendungsbeispiele}{7}{}%
+\contentsline {chapter}{\numberline {4}Fazit}{10}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {4}Fazit}{8}{}%
+\contentsline {chapter}{\numberline {5}Eigenständigkeitserklärung}{11}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {5}Eigenständigkeitserklärung}{9}{}%
+\contentsline {chapter}{Onlinequellen}{14}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Onlinequellen}{11}{}%
-\defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Bildquellen}{12}{}%
+\contentsline {chapter}{Bildquellen}{15}{}%

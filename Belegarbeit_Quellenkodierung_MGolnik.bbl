@@ -98,6 +98,64 @@
     \endverb
   \endentry
 
+  \entry{Juchim2021}{misc}{}
+    \name{author}{1}{}{%
+      {{hash=JF}{%
+         family={Juchim},
+         familyi={J\bibinitperiod},
+         given={Frank},
+         giveni={F\bibinitperiod},
+      }}%
+    }
+    \keyw{online}
+    \strng{namehash}{JF1}
+    \strng{fullhash}{JF1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Juc21}
+    \field{sortinit}{J}
+    \field{sortinithash}{J}
+    \field{title}{Kompression und Lauflängencodierung - Codierung und
+  Datenübertragung}
+    \verb{url}
+    \verb https://www.youtube.com/watch?v=DRH1eAd1Psk
+    \endverb
+    \field{month}{04}
+    \field{year}{2021}
+  \endentry
+
+  \entry{Koeck2006}{online}{}
+    \name{author}{1}{}{%
+      {{hash=KM}{%
+         family={Koeck},
+         familyi={K\bibinitperiod},
+         given={Mirjam},
+         giveni={M\bibinitperiod},
+      }}%
+    }
+    \list{language}{1}{%
+      {Deutsch}%
+    }
+    \list{organization}{1}{%
+      {Digital Media for Artists}%
+    }
+    \keyw{online}
+    \strng{namehash}{KM1}
+    \strng{fullhash}{KM1}
+    \field{labelnamesource}{author}
+    \field{labeltitlesource}{title}
+    \field{labelalpha}{Koe06}
+    \field{sortinit}{K}
+    \field{sortinithash}{K}
+    \field{title}{RLE - Runlength-Encoding}
+    \verb{url}
+    \verb http://www.dma.ufg.ac.at/app/link/Grundlagen:2D-Grafik/module/12946?s
+    \verb tep=all
+    \endverb
+    \field{month}{04}
+    \field{year}{2006}
+  \endentry
+
   \entry{Lange2021}{online}{}
     \name{author}{1}{}{%
       {{hash=LPDC}{%
@@ -129,32 +187,6 @@
     \endverb
     \field{month}{11}
     \field{year}{2021}
-  \endentry
-
-  \entry{rostfrank}{misc}{}
-    \name{author}{1}{}{%
-      {{hash=RF}{%
-         family={Rost},
-         familyi={R\bibinitperiod},
-         given={Frank},
-         giveni={F\bibinitperiod},
-      }}%
-    }
-    \keyw{image}
-    \strng{namehash}{RF1}
-    \strng{fullhash}{RF1}
-    \field{labelnamesource}{author}
-    \field{labeltitlesource}{title}
-    \field{labelalpha}{Ros13}
-    \field{sortinit}{R}
-    \field{sortinithash}{R}
-    \field{howpublished}{Internet}
-    \field{title}{JPEG - Joint Photographic Expert Group}
-    \verb{url}
-    \verb http://informatik.rostfrank.de/info/lex04/jpeg.html
-    \endverb
-    \field{month}{10}
-    \field{year}{2013}
   \endentry
 
   \entry{IONOS}{article}{}

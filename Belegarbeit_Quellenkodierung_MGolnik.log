@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12.10) (preloaded format=pdflatex 2022.1.8)  16 JAN 2022 19:46
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12.10) (preloaded format=pdflatex 2022.1.8)  17 JAN 2022 18:47
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -160,20 +160,53 @@ File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
 ))
 \Gin@req@height=\dimen149
 \Gin@req@width=\dimen150
+) (C:\Users\MiN0DE\AppData\Local\Programs\MiKTeX\tex/latex/subfig\subfig.sty
+Package: subfig 2005/06/28 ver: 1.3 subfig package
+(C:\Users\MiN0DE\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption.sty
+Package: caption 2020/10/26 v3.5g Customizing captions (AR)
+
+(C:\Users\MiN0DE\AppData\Local\Programs\MiKTeX\tex/latex/caption\caption3.sty
+Package: caption3 2020/10/21 v2.2e caption3 kernel (AR)
+\captionmargin=\dimen151
+\captionmargin@=\dimen152
+\captionwidth=\dimen153
+\caption@tempdima=\dimen154
+\caption@indent=\dimen155
+\caption@parindent=\dimen156
+\caption@hangindent=\dimen157
+Package caption Info: Standard document class detected.
+)
+\c@caption@flags=\count273
+\c@continuedfloat=\count274
+Package caption Info: float package is loaded.
+)
+\c@KVtest=\count275
+\sf@farskip=\skip52
+\sf@captopadj=\dimen158
+\sf@capskip=\skip53
+\sf@nearskip=\skip54
+\c@subfigure=\count276
+\c@subfigure@save=\count277
+\c@lofdepth=\count278
+\c@subtable=\count279
+\c@subtable@save=\count280
+\c@lotdepth=\count281
+\sf@top=\skip55
+\sf@bottom=\skip56
 )
 (C:\Users\MiN0DE\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.sty
 Package: csquotes 2021-02-22 v5.2l context-sensitive quotations (JAW)
 
 (C:\Users\MiN0DE\AppData\Local\Programs\MiKTeX\tex/latex/etoolbox\etoolbox.sty
 Package: etoolbox 2020/10/05 v2.5k e-TeX tools for LaTeX (JAW)
-\etb@tempcnta=\count273
+\etb@tempcnta=\count282
 )
-\csq@reset=\count274
-\csq@gtype=\count275
-\csq@glevel=\count276
-\csq@qlevel=\count277
-\csq@maxlvl=\count278
-\csq@tshold=\count279
+\csq@reset=\count283
+\csq@gtype=\count284
+\csq@glevel=\count285
+\csq@qlevel=\count286
+\csq@maxlvl=\count287
+\csq@tshold=\count288
 \csq@ltx@everypar=\toks26
 (C:\Users\MiN0DE\AppData\Local\Programs\MiKTeX\tex/latex/csquotes\csquotes.def
 File: csquotes.def 2021-02-22 v5.2l csquotes generic definitions (JAW)
@@ -214,7 +247,7 @@ Package: kvsetkeys 2019/12/15 v1.18 Key value parser (HO)
 ))
 (C:\Users\MiN0DE\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.sty
 Package: logreq 2010/08/04 v1.0 xml request logger
-\lrq@indent=\count280
+\lrq@indent=\count289
 
 (C:\Users\MiN0DE\AppData\Local\Programs\MiKTeX\tex/latex/logreq\logreq.def
 File: logreq.def 2010/08/04 v1.0 logreq spec v1.0
@@ -226,62 +259,62 @@ Package: ifthen 2020/11/24 v1.1c Standard LaTeX ifthen package (DPC)
 \Urlmuskip=\muskip17
 Package: url 2013/09/16  ver 3.4  Verb mode for urls, etc.
 )
-\c@tabx@nest=\count281
-\c@listtotal=\count282
-\c@listcount=\count283
-\c@liststart=\count284
-\c@liststop=\count285
-\c@citecount=\count286
-\c@citetotal=\count287
-\c@multicitecount=\count288
-\c@multicitetotal=\count289
-\c@instcount=\count290
-\c@maxnames=\count291
-\c@minnames=\count292
-\c@maxitems=\count293
-\c@minitems=\count294
-\c@citecounter=\count295
-\c@maxcitecounter=\count296
-\c@savedcitecounter=\count297
-\c@uniquelist=\count298
-\c@uniquename=\count299
-\c@refsection=\count300
-\c@refsegment=\count301
-\c@maxextratitle=\count302
-\c@maxextratitleyear=\count303
-\c@maxextraname=\count304
-\c@maxextradate=\count305
-\c@maxextraalpha=\count306
-\c@abbrvpenalty=\count307
-\c@highnamepenalty=\count308
-\c@lownamepenalty=\count309
-\c@maxparens=\count310
-\c@parenlevel=\count311
-\blx@tempcnta=\count312
-\blx@tempcntb=\count313
-\blx@tempcntc=\count314
-\blx@maxsection=\count315
-\blx@maxsegment@0=\count316
-\blx@notetype=\count317
-\blx@parenlevel@text=\count318
-\blx@parenlevel@foot=\count319
-\blx@sectionciteorder@0=\count320
-\blx@entrysetcounter=\count321
-\blx@biblioinstance=\count322
-\labelnumberwidth=\skip52
-\labelalphawidth=\skip53
-\biblabelsep=\skip54
-\bibitemsep=\skip55
-\bibnamesep=\skip56
-\bibinitsep=\skip57
-\bibparsep=\skip58
-\bibhang=\skip59
+\c@tabx@nest=\count290
+\c@listtotal=\count291
+\c@listcount=\count292
+\c@liststart=\count293
+\c@liststop=\count294
+\c@citecount=\count295
+\c@citetotal=\count296
+\c@multicitecount=\count297
+\c@multicitetotal=\count298
+\c@instcount=\count299
+\c@maxnames=\count300
+\c@minnames=\count301
+\c@maxitems=\count302
+\c@minitems=\count303
+\c@citecounter=\count304
+\c@maxcitecounter=\count305
+\c@savedcitecounter=\count306
+\c@uniquelist=\count307
+\c@uniquename=\count308
+\c@refsection=\count309
+\c@refsegment=\count310
+\c@maxextratitle=\count311
+\c@maxextratitleyear=\count312
+\c@maxextraname=\count313
+\c@maxextradate=\count314
+\c@maxextraalpha=\count315
+\c@abbrvpenalty=\count316
+\c@highnamepenalty=\count317
+\c@lownamepenalty=\count318
+\c@maxparens=\count319
+\c@parenlevel=\count320
+\blx@tempcnta=\count321
+\blx@tempcntb=\count322
+\blx@tempcntc=\count323
+\blx@maxsection=\count324
+\blx@maxsegment@0=\count325
+\blx@notetype=\count326
+\blx@parenlevel@text=\count327
+\blx@parenlevel@foot=\count328
+\blx@sectionciteorder@0=\count329
+\blx@entrysetcounter=\count330
+\blx@biblioinstance=\count331
+\labelnumberwidth=\skip57
+\labelalphawidth=\skip58
+\biblabelsep=\skip59
+\bibitemsep=\skip60
+\bibnamesep=\skip61
+\bibinitsep=\skip62
+\bibparsep=\skip63
+\bibhang=\skip64
 \blx@bcfin=\read3
 \blx@bcfout=\write3
 \blx@langwohyphens=\language85
-\c@mincomprange=\count323
-\c@maxcomprange=\count324
-\c@mincompwidth=\count325
+\c@mincomprange=\count332
+\c@maxcomprange=\count333
+\c@mincompwidth=\count334
 Package biblatex Info: Trying to load biblatex default data model...
 Package biblatex Info: ... file 'blx-dm.def' found.
 
@@ -292,88 +325,88 @@ Package biblatex Info: Trying to load biblatex style data model...
 Package biblatex Info: ... file 'alphabetic.dbx' not found.
 Package biblatex Info: Trying to load biblatex custom data model...
 Package biblatex Info: ... file 'biblatex-dm.cfg' not found.
-\c@afterword=\count326
-\c@savedafterword=\count327
-\c@annotator=\count328
-\c@savedannotator=\count329
-\c@author=\count330
-\c@savedauthor=\count331
-\c@bookauthor=\count332
-\c@savedbookauthor=\count333
-\c@commentator=\count334
-\c@savedcommentator=\count335
-\c@editor=\count336
-\c@savededitor=\count337
-\c@editora=\count338
-\c@savededitora=\count339
-\c@editorb=\count340
-\c@savededitorb=\count341
-\c@editorc=\count342
-\c@savededitorc=\count343
-\c@foreword=\count344
-\c@savedforeword=\count345
-\c@holder=\count346
-\c@savedholder=\count347
-\c@introduction=\count348
-\c@savedintroduction=\count349
-\c@namea=\count350
-\c@savednamea=\count351
-\c@nameb=\count352
-\c@savednameb=\count353
-\c@namec=\count354
-\c@savednamec=\count355
-\c@translator=\count356
-\c@savedtranslator=\count357
-\c@shortauthor=\count358
-\c@savedshortauthor=\count359
-\c@shorteditor=\count360
-\c@savedshorteditor=\count361
-\c@labelname=\count362
-\c@savedlabelname=\count363
-\c@institution=\count364
-\c@savedinstitution=\count365
-\c@lista=\count366
-\c@savedlista=\count367
-\c@listb=\count368
-\c@savedlistb=\count369
-\c@listc=\count370
-\c@savedlistc=\count371
-\c@listd=\count372
-\c@savedlistd=\count373
-\c@liste=\count374
-\c@savedliste=\count375
-\c@listf=\count376
-\c@savedlistf=\count377
-\c@location=\count378
-\c@savedlocation=\count379
-\c@organization=\count380
-\c@savedorganization=\count381
-\c@origlocation=\count382
-\c@savedoriglocation=\count383
-\c@origpublisher=\count384
-\c@savedorigpublisher=\count385
-\c@publisher=\count386
-\c@savedpublisher=\count387
-\c@language=\count388
-\c@savedlanguage=\count389
-\c@origlanguage=\count390
-\c@savedoriglanguage=\count391
-\c@pageref=\count392
-\c@savedpageref=\count393
-\shorthandwidth=\skip60
-\shortjournalwidth=\skip61
-\shortserieswidth=\skip62
-\shorttitlewidth=\skip63
-\shortauthorwidth=\skip64
-\shorteditorwidth=\skip65
-\locallabelnumberwidth=\skip66
-\locallabelalphawidth=\skip67
-\localshorthandwidth=\skip68
-\localshortjournalwidth=\skip69
-\localshortserieswidth=\skip70
-\localshorttitlewidth=\skip71
-\localshortauthorwidth=\skip72
-\localshorteditorwidth=\skip73
+\c@afterword=\count335
+\c@savedafterword=\count336
+\c@annotator=\count337
+\c@savedannotator=\count338
+\c@author=\count339
+\c@savedauthor=\count340
+\c@bookauthor=\count341
+\c@savedbookauthor=\count342
+\c@commentator=\count343
+\c@savedcommentator=\count344
+\c@editor=\count345
+\c@savededitor=\count346
+\c@editora=\count347
+\c@savededitora=\count348
+\c@editorb=\count349
+\c@savededitorb=\count350
+\c@editorc=\count351
+\c@savededitorc=\count352
+\c@foreword=\count353
+\c@savedforeword=\count354
+\c@holder=\count355
+\c@savedholder=\count356
+\c@introduction=\count357
+\c@savedintroduction=\count358
+\c@namea=\count359
+\c@savednamea=\count360
+\c@nameb=\count361
+\c@savednameb=\count362
+\c@namec=\count363
+\c@savednamec=\count364
+\c@translator=\count365
+\c@savedtranslator=\count366
+\c@shortauthor=\count367
+\c@savedshortauthor=\count368
+\c@shorteditor=\count369
+\c@savedshorteditor=\count370
+\c@labelname=\count371
+\c@savedlabelname=\count372
+\c@institution=\count373
+\c@savedinstitution=\count374
+\c@lista=\count375
+\c@savedlista=\count376
+\c@listb=\count377
+\c@savedlistb=\count378
+\c@listc=\count379
+\c@savedlistc=\count380
+\c@listd=\count381
+\c@savedlistd=\count382
+\c@liste=\count383
+\c@savedliste=\count384
+\c@listf=\count385
+\c@savedlistf=\count386
+\c@location=\count387
+\c@savedlocation=\count388
+\c@organization=\count389
+\c@savedorganization=\count390
+\c@origlocation=\count391
+\c@savedoriglocation=\count392
+\c@origpublisher=\count393
+\c@savedorigpublisher=\count394
+\c@publisher=\count395
+\c@savedpublisher=\count396
+\c@language=\count397
+\c@savedlanguage=\count398
+\c@origlanguage=\count399
+\c@savedoriglanguage=\count400
+\c@pageref=\count401
+\c@savedpageref=\count402
+\shorthandwidth=\skip65
+\shortjournalwidth=\skip66
+\shortserieswidth=\skip67
+\shorttitlewidth=\skip68
+\shortauthorwidth=\skip69
+\shorteditorwidth=\skip70
+\locallabelnumberwidth=\skip71
+\locallabelalphawidth=\skip72
+\localshorthandwidth=\skip73
+\localshortjournalwidth=\skip74
+\localshortserieswidth=\skip75
+\localshorttitlewidth=\skip76
+\localshortauthorwidth=\skip77
+\localshorteditorwidth=\skip78
 Package biblatex Info: Trying to load compatibility code...
 Package biblatex Info: ... file 'blx-compat.def' found.
 
@@ -398,19 +431,19 @@ Package biblatex Info: ... file 'biblatex.def' found.
 
 (C:\Users\MiN0DE\AppData\Local\Programs\MiKTeX\tex/latex/biblatex\biblatex.def
 File: biblatex.def 2020/12/31 v3.16 biblatex compatibility (PK/MW)
-\c@textcitecount=\count394
-\c@textcitetotal=\count395
-\c@textcitemaxnames=\count396
-\c@biburlbigbreakpenalty=\count397
-\c@biburlbreakpenalty=\count398
-\c@biburlnumpenalty=\count399
-\c@biburlucpenalty=\count400
-\c@biburllcpenalty=\count401
+\c@textcitecount=\count403
+\c@textcitetotal=\count404
+\c@textcitemaxnames=\count405
+\c@biburlbigbreakpenalty=\count406
+\c@biburlbreakpenalty=\count407
+\c@biburlnumpenalty=\count408
+\c@biburlucpenalty=\count409
+\c@biburllcpenalty=\count410
 \biburlbigskip=\muskip18
 \biburlnumskip=\muskip19
 \biburlucskip=\muskip20
 \biburllcskip=\muskip21
-\c@smartand=\count402
+\c@smartand=\count411
 )
 Package biblatex Info: Trying to load natbib compatibility...
 Package biblatex Info: ... file 'blx-natbib.def' found.
@@ -433,8 +466,8 @@ Package biblatex Info: ... file 'standard.bbx' found.
 (C:\Users\MiN0DE\AppData\Local\Programs\MiKTeX\tex/latex/biblatex/bbx\standard.
 bbx
 File: standard.bbx 2020/12/31 v3.16 biblatex bibliography style (PK/MW)
-\c@bbx:relatedcount=\count403
-\c@bbx:relatedtotal=\count404
+\c@bbx:relatedcount=\count412
+\c@bbx:relatedtotal=\count413
 ))
 Package biblatex Info: Trying to load citation style 'alphabetic'...
 Package biblatex Info: ... file 'alphabetic.cbx' found.
@@ -467,7 +500,7 @@ Package csquotes Info: Redefining alias 'default' -> 'ngerman'.
 (C:\Users\MiN0DE\AppData\Local\Programs\MiKTeX\tex/latex/l3backend\l3backend-pd
 ftex.def
 File: l3backend-pdftex.def 2021-12-14 L3 backend support: PDF output (pdfTeX)
-\l__color_backend_stack_int=\count405
+\l__color_backend_stack_int=\count414
 \l__pdf_internal_box=\box54
 ) (Belegarbeit_Quellenkodierung_MGolnik.aux)
 \openout1 = `Belegarbeit_Quellenkodierung_MGolnik.aux'.
@@ -490,16 +523,16 @@ LaTeX Font Info:    ... okay on input line 23.
 (C:\Users\MiN0DE\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.m
 kii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count406
-\scratchdimen=\dimen151
+\scratchcounter=\count415
+\scratchdimen=\dimen159
 \scratchbox=\box55
-\nofMPsegments=\count407
-\nofMParguments=\count408
+\nofMPsegments=\count416
+\nofMParguments=\count417
 \everyMPshowfont=\toks27
-\MPscratchCnt=\count409
-\MPscratchDim=\dimen152
-\MPnumerator=\count410
-\makeMPintoPDFobject=\count411
+\MPscratchCnt=\count418
+\MPscratchDim=\dimen160
+\MPnumerator=\count419
+\makeMPintoPDFobject=\count420
 \everyMPtoPDFconversion=\toks28
 )
 (C:\Users\MiN0DE\AppData\Local\Programs\MiKTeX\tex/latex/epstopdf-pkg\epstopdf-
@@ -524,6 +557,9 @@ G,.JBIG2,.JB2,.eps]
 cfg
 File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
 ))
+Package caption Info: Begin \AtBeginDocument code.
+Package caption Info: subfig package v1.3 is loaded.
+Package caption Info: End \AtBeginDocument code.
 Package biblatex Info: Trying to load language 'ngerman'...
 Package biblatex Info: ... file 'ngerman.lbx' found.
 
@@ -609,54 +645,62 @@ Kapitel 3.
 <MMK_RLE.png, id=22, 553.56813pt x 224.33812pt>
 File: MMK_RLE.png Graphic file (type png)
 <use MMK_RLE.png>
-Package pdftex.def Info: MMK_RLE.png  used on input line 70.
+Package pdftex.def Info: MMK_RLE.png  used on input line 75.
 (pdftex.def)             Requested size: 270.0pt x 109.42001pt.
 [4
 
  <./MMK_RLE.png>]
-<alpha_ziffer.png, id=32, 256.45813pt x 100.375pt>
+<alpha_ziffer.png, id=34, 256.45813pt x 100.375pt>
 File: alpha_ziffer.png Graphic file (type png)
 <use alpha_ziffer.png>
-Package pdftex.def Info: alpha_ziffer.png  used on input line 94.
+Package pdftex.def Info: alpha_ziffer.png  used on input line 93.
 (pdftex.def)             Requested size: 270.0pt x 105.68324pt.
  [5 <./alpha_ziffer.png>]
-<zickzack.png, id=37, 220.825pt x 220.825pt>
-File: zickzack.png Graphic file (type png)
-<use zickzack.png>
-Package pdftex.def Info: zickzack.png  used on input line 128.
-(pdftex.def)             Requested size: 90.0pt x 89.9997pt.
-<Mäander.png, id=38, 117.43875pt x 144.54pt>
+<Mäander.png, id=39, 117.43875pt x 144.54pt>
 File: Mäander.png Graphic file (type png)
 <use Mäander.png>
-Package pdftex.def Info: Mäander.png  used on input line 137.
+Package pdftex.def Info: Mäander.png  used on input line 127.
 (pdftex.def)             Requested size: 90.0pt x 110.76901pt.
-<g_h_Effizienz.png, id=39, 462.97969pt x 238.64156pt>
+ [6 <./Mäander.png>]
+<g_h_Effizienz.png, id=45, 462.97969pt x 238.64156pt>
 File: g_h_Effizienz.png Graphic file (type png)
 <use g_h_Effizienz.png>
-Package pdftex.def Info: g_h_Effizienz.png  used on input line 151.
+Package pdftex.def Info: g_h_Effizienz.png  used on input line 147.
 (pdftex.def)             Requested size: 270.0pt x 139.17323pt.
- [6 <./zickzack.png> <./Mäander.png>] [7 <./g_h_Effizienz.png>]
+ [7 <./g_h_Effizienz.png>] [8] [9]
 Kapitel 4.
-[8
+[10
 
 ]
 Kapitel 5.
-[9
+<mgo.png, id=59, 303.63437pt x 154.5775pt>
+File: mgo.png Graphic file (type png)
+<use mgo.png>
+Package pdftex.def Info: mgo.png  used on input line 264.
+(pdftex.def)             Requested size: 180.0pt x 91.63863pt.
+[11
 
-] (Belegarbeit_Quellenkodierung_MGolnik.lof)
+ <./mgo.png>] (Belegarbeit_Quellenkodierung_MGolnik.lof)
 \tf@lof=\write5
 \openout5 = `Belegarbeit_Quellenkodierung_MGolnik.lof'.
 
- [10
+ [12
 
 ]
-LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 1
-80.
+(Belegarbeit_Quellenkodierung_MGolnik.lot)
+\tf@lot=\write6
+\openout6 = `Belegarbeit_Quellenkodierung_MGolnik.lot'.
+
+ [13
+
+]
+LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 2
+72.
 
 (C:\Users\MiN0DE\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmtt.fd
 File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
-Overfull \hbox (14.27512pt too wide) in paragraph at lines 180--180
+Overfull \hbox (14.27512pt too wide) in paragraph at lines 272--272
 \T1/cmtt/m/n/10.95 moodle . htw -[] berlin . de / pluginfile . php / 1361027 / 
 mod _ resource /
  []
@@ -664,8 +708,8 @@ mod _ resource /
 ! Misplaced alignment tab character &.
 <argument> Digital Guide IONOS by 1&
                                     1
-l.180 ... keyword={online}, title={Onlinequellen}]
-                                                  \clearpage
+l.272 ... keyword={online}, title={Onlinequellen}]
+                                                  
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
 simple: Just type `I\&' now. But if some right brace
@@ -674,21 +718,20 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 
-Overfull \hbox (8.61674pt too wide) in paragraph at lines 180--180
+Overfull \hbox (8.61674pt too wide) in paragraph at lines 272--272
 \T1/cmtt/m/n/10.95 www . ionos . de / digitalguide / server / knowhow / datenre
 duktion -[]
  []
 
-[11
+[14
 
 ]
-Overfull \hbox (24.92212pt too wide) in paragraph at lines 181--181
+Overfull \hbox (24.92212pt too wide) in paragraph at lines 273--273
 \T1/cmr/m/sc/10.95 url\T1/cmr/m/n/10.95 : $\T1/cmtt/m/n/10.95 https : / / www .
  kocer -[] heiztech . at / blog / fussbodenheizungen/$\T1/cmr/m/n/10.95 . 
  []
 
-[12
-
+[15
 
 ] (Belegarbeit_Quellenkodierung_MGolnik.aux)
 Package logreq Info: Writing requests to 'Belegarbeit_Quellenkodierung_MGolnik.
@@ -697,35 +740,39 @@ run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 12639 strings out of 478621
- 233641 string characters out of 2843730
- 746541 words of memory out of 3000000
- 30578 multiletter control sequences out of 15000+600000
+ 14059 strings out of 478621
+ 261534 string characters out of 2843730
+ 773902 words of memory out of 3000000
+ 31985 multiletter control sequences out of 15000+600000
  424628 words of font info for 78 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
- 60i,8n,67p,1880b,2241s stack positions out of 5000i,500n,10000p,200000b,80000s
+ 69i,8n,79p,1880b,2241s stack positions out of 5000i,500n,10000p,200000b,80000s
 {C:/Users/MiN0DE/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/cm-super/cm-su
 per-t1.enc}{C:/Users/MiN0DE/AppData/Local/Programs/MiKTeX/fonts/enc/dvips/cm-su
 per/cm-super-ts1.enc}<C:/Users/MiN0DE/AppData/Local/Programs/MiKTeX/fonts/type1
-/public/cm-super/sfbx1095.pfb><C:/Users/MiN0DE/AppData/Local/Programs/MiKTeX/fo
-nts/type1/public/cm-super/sfbx1440.pfb><C:/Users/MiN0DE/AppData/Local/Programs/
-MiKTeX/fonts/type1/public/cm-super/sfbx1728.pfb><C:/Users/MiN0DE/AppData/Local/
-Programs/MiKTeX/fonts/type1/public/cm-super/sfbx2074.pfb><C:/Users/MiN0DE/AppDa
-ta/Local/Programs/MiKTeX/fonts/type1/public/cm-super/sfbx2488.pfb><C:/Users/MiN
-0DE/AppData/Local/Programs/MiKTeX/fonts/type1/public/cm-super/sfcc1095.pfb><C:/
-Users/MiN0DE/AppData/Local/Programs/MiKTeX/fonts/type1/public/cm-super/sfrm0600
-.pfb><C:/Users/MiN0DE/AppData/Local/Programs/MiKTeX/fonts/type1/public/cm-super
-/sfrm0800.pfb><C:/Users/MiN0DE/AppData/Local/Programs/MiKTeX/fonts/type1/public
-/cm-super/sfrm0900.pfb><C:/Users/MiN0DE/AppData/Local/Programs/MiKTeX/fonts/typ
-e1/public/cm-super/sfrm1095.pfb><C:/Users/MiN0DE/AppData/Local/Programs/MiKTeX/
-fonts/type1/public/cm-super/sfrm1200.pfb><C:/Users/MiN0DE/AppData/Local/Program
-s/MiKTeX/fonts/type1/public/cm-super/sfrm1728.pfb><C:/Users/MiN0DE/AppData/Loca
-l/Programs/MiKTeX/fonts/type1/public/cm-super/sfti1095.pfb><C:/Users/MiN0DE/App
-Data/Local/Programs/MiKTeX/fonts/type1/public/cm-super/sftt1095.pfb>
-Output written on Belegarbeit_Quellenkodierung_MGolnik.pdf (13 pages, 413437 by
+/public/amsfonts/cm/cmmi10.pfb><C:/Users/MiN0DE/AppData/Local/Programs/MiKTeX/f
+onts/type1/public/amsfonts/cm/cmr10.pfb><C:/Users/MiN0DE/AppData/Local/Programs
+/MiKTeX/fonts/type1/public/amsfonts/cm/cmsy10.pfb><C:/Users/MiN0DE/AppData/Loca
+l/Programs/MiKTeX/fonts/type1/public/cm-super/sfbx1095.pfb><C:/Users/MiN0DE/App
+Data/Local/Programs/MiKTeX/fonts/type1/public/cm-super/sfbx1440.pfb><C:/Users/M
+iN0DE/AppData/Local/Programs/MiKTeX/fonts/type1/public/cm-super/sfbx1728.pfb><C
+:/Users/MiN0DE/AppData/Local/Programs/MiKTeX/fonts/type1/public/cm-super/sfbx20
+74.pfb><C:/Users/MiN0DE/AppData/Local/Programs/MiKTeX/fonts/type1/public/cm-sup
+er/sfbx2488.pfb><C:/Users/MiN0DE/AppData/Local/Programs/MiKTeX/fonts/type1/publ
+ic/cm-super/sfcc1095.pfb><C:/Users/MiN0DE/AppData/Local/Programs/MiKTeX/fonts/t
+ype1/public/cm-super/sfrm0600.pfb><C:/Users/MiN0DE/AppData/Local/Programs/MiKTe
+X/fonts/type1/public/cm-super/sfrm0800.pfb><C:/Users/MiN0DE/AppData/Local/Progr
+ams/MiKTeX/fonts/type1/public/cm-super/sfrm0900.pfb><C:/Users/MiN0DE/AppData/Lo
+cal/Programs/MiKTeX/fonts/type1/public/cm-super/sfrm1095.pfb><C:/Users/MiN0DE/A
+ppData/Local/Programs/MiKTeX/fonts/type1/public/cm-super/sfrm1200.pfb><C:/Users
+/MiN0DE/AppData/Local/Programs/MiKTeX/fonts/type1/public/cm-super/sfrm1728.pfb>
+<C:/Users/MiN0DE/AppData/Local/Programs/MiKTeX/fonts/type1/public/cm-super/sfti
+1095.pfb><C:/Users/MiN0DE/AppData/Local/Programs/MiKTeX/fonts/type1/public/cm-s
+uper/sftt1095.pfb>
+Output written on Belegarbeit_Quellenkodierung_MGolnik.pdf (16 pages, 463603 by
 tes).
 PDF statistics:
- 130 PDF objects out of 1000 (max. 8388607)
+ 153 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  26 words of extra memory for PDF output out of 10000 (max. 10000000)
 
