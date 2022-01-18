@@ -3,13 +3,13 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {1}Einleitung}{2}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {2}Quellenkodierung und Datenkompression}{3}{}%
+\contentsline {chapter}{\numberline {2}Quellencodierung und Datenkompression}{3}{}%
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {3}Run-Length Encoding}{4}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.1}Redundanz-Kompression durch \\ Run-Length Encoding}{4}{}%
+\contentsline {section}{\numberline {3.1}Redundanz-Kompression durch RLE}{4}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.2}Vor- und Nachteile gegenüber anderen Verfahren}{5}{}%
+\contentsline {section}{\numberline {3.2}Vor- und Nachteile gegenüber anderen Verfahren}{6}{}%
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {3.3}Einsatz \& Anwendungsbeispiele}{6}{}%
 \defcounter {refsection}{0}\relax 
@@ -17,6 +17,8 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {chapter}{\numberline {5}Eigenständigkeitserklärung}{11}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Onlinequellen}{14}{}%
+\contentsline {chapter}{Abbildungsverzeichnis}{11}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Bildquellen}{15}{}%
+\contentsline {chapter}{Tabellenverzeichnis}{12}{}%
+\defcounter {refsection}{0}\relax 
+\contentsline {chapter}{Quellenverzeichnis}{14}{}%

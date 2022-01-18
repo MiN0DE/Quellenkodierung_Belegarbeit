@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12.10) (preloaded format=pdflatex 2022.1.8)  17 JAN 2022 18:47
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12.10) (preloaded format=pdflatex 2022.1.8)  18 JAN 2022 17:44
 entering extended mode
  restricted \write18 enabled.
  %&-line parsing enabled.
@@ -505,20 +505,20 @@ File: l3backend-pdftex.def 2021-12-14 L3 backend support: PDF output (pdfTeX)
 ) (Belegarbeit_Quellenkodierung_MGolnik.aux)
 \openout1 = `Belegarbeit_Quellenkodierung_MGolnik.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 18.
+LaTeX Font Info:    ... okay on input line 18.
 
 (C:\Users\MiN0DE\AppData\Local\Programs\MiKTeX\tex/context/base/mkii\supp-pdf.m
 kii
@@ -609,15 +609,15 @@ Package biblatex Info: Trying to load bibliographic data...
 Package biblatex Info: ... file 'Belegarbeit_Quellenkodierung_MGolnik.bbl' foun
 d.
  (Belegarbeit_Quellenkodierung_MGolnik.bbl)
-Package biblatex Info: Reference section=0 on input line 23.
-Package biblatex Info: Reference segment=0 on input line 23.
-LaTeX Font Info:    Trying to load font information for U+msa on input line 25.
+Package biblatex Info: Reference section=0 on input line 18.
+Package biblatex Info: Reference segment=0 on input line 18.
+LaTeX Font Info:    Trying to load font information for U+msa on input line 20.
 
 
 (C:\Users\MiN0DE\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsa.fd
 File: umsa.fd 2013/01/14 v3.01 AMS symbols A
 )
-LaTeX Font Info:    Trying to load font information for U+msb on input line 25.
+LaTeX Font Info:    Trying to load font information for U+msb on input line 20.
 
 
 (C:\Users\MiN0DE\AppData\Local\Programs\MiKTeX\tex/latex/amsfonts\umsb.fd
@@ -645,38 +645,38 @@ Kapitel 3.
 <MMK_RLE.png, id=22, 553.56813pt x 224.33812pt>
 File: MMK_RLE.png Graphic file (type png)
 <use MMK_RLE.png>
-Package pdftex.def Info: MMK_RLE.png  used on input line 75.
+Package pdftex.def Info: MMK_RLE.png  used on input line 66.
 (pdftex.def)             Requested size: 270.0pt x 109.42001pt.
 [4
 
  <./MMK_RLE.png>]
-<alpha_ziffer.png, id=34, 256.45813pt x 100.375pt>
+<alpha_ziffer.png, id=32, 256.45813pt x 100.375pt>
 File: alpha_ziffer.png Graphic file (type png)
 <use alpha_ziffer.png>
-Package pdftex.def Info: alpha_ziffer.png  used on input line 93.
+Package pdftex.def Info: alpha_ziffer.png  used on input line 94.
 (pdftex.def)             Requested size: 270.0pt x 105.68324pt.
  [5 <./alpha_ziffer.png>]
-<Mäander.png, id=39, 117.43875pt x 144.54pt>
+<Mäander.png, id=40, 117.43875pt x 144.54pt>
 File: Mäander.png Graphic file (type png)
 <use Mäander.png>
-Package pdftex.def Info: Mäander.png  used on input line 127.
+Package pdftex.def Info: Mäander.png  used on input line 125.
 (pdftex.def)             Requested size: 90.0pt x 110.76901pt.
- [6 <./Mäander.png>]
+ [6]
 <g_h_Effizienz.png, id=45, 462.97969pt x 238.64156pt>
 File: g_h_Effizienz.png Graphic file (type png)
 <use g_h_Effizienz.png>
-Package pdftex.def Info: g_h_Effizienz.png  used on input line 147.
+Package pdftex.def Info: g_h_Effizienz.png  used on input line 138.
 (pdftex.def)             Requested size: 270.0pt x 139.17323pt.
- [7 <./g_h_Effizienz.png>] [8] [9]
+ [7 <./Mäander.png> <./g_h_Effizienz.png>] [8] [9]
 Kapitel 4.
 [10
 
 ]
 Kapitel 5.
-<mgo.png, id=59, 303.63437pt x 154.5775pt>
+<mgo.png, id=60, 303.63437pt x 154.5775pt>
 File: mgo.png Graphic file (type png)
 <use mgo.png>
-Package pdftex.def Info: mgo.png  used on input line 264.
+Package pdftex.def Info: mgo.png  used on input line 232.
 (pdftex.def)             Requested size: 180.0pt x 91.63863pt.
 [11
 
@@ -695,12 +695,18 @@ Package pdftex.def Info: mgo.png  used on input line 264.
 
 ]
 LaTeX Font Info:    Trying to load font information for T1+cmtt on input line 2
-72.
+41.
 
 (C:\Users\MiN0DE\AppData\Local\Programs\MiKTeX\tex/latex/base\t1cmtt.fd
 File: t1cmtt.fd 2019/12/16 v2.5j Standard LaTeX font definitions
 )
-Overfull \hbox (14.27512pt too wide) in paragraph at lines 272--272
+Overfull \hbox (24.92212pt too wide) in paragraph at lines 241--241
+\T1/cmr/m/sc/10.95 url\T1/cmr/m/n/10.95 : $\T1/cmtt/m/n/10.95 https : / / www .
+ kocer -[] heiztech . at / blog / fussbodenheizungen/$\T1/cmr/m/n/10.95 . 
+ []
+
+
+Overfull \hbox (14.27512pt too wide) in paragraph at lines 241--241
 \T1/cmtt/m/n/10.95 moodle . htw -[] berlin . de / pluginfile . php / 1361027 / 
 mod _ resource /
  []
@@ -708,7 +714,7 @@ mod _ resource /
 ! Misplaced alignment tab character &.
 <argument> Digital Guide IONOS by 1&
                                     1
-l.272 ... keyword={online}, title={Onlinequellen}]
+l.241 ...ing=bibintoc, title={Quellenverzeichnis}]
                                                   
 I can't figure out why you would want to use a tab mark
 here. If you just want an ampersand, the remedy is
@@ -718,20 +724,12 @@ you're probably due for more error messages, and you
 might try typing `S' now just to see what is salvageable.
 
 
-Overfull \hbox (8.61674pt too wide) in paragraph at lines 272--272
+Overfull \hbox (8.61674pt too wide) in paragraph at lines 241--241
 \T1/cmtt/m/n/10.95 www . ionos . de / digitalguide / server / knowhow / datenre
 duktion -[]
  []
 
 [14
-
-]
-Overfull \hbox (24.92212pt too wide) in paragraph at lines 273--273
-\T1/cmr/m/sc/10.95 url\T1/cmr/m/n/10.95 : $\T1/cmtt/m/n/10.95 https : / / www .
- kocer -[] heiztech . at / blog / fussbodenheizungen/$\T1/cmr/m/n/10.95 . 
- []
-
-[15
 
 ] (Belegarbeit_Quellenkodierung_MGolnik.aux)
 Package logreq Info: Writing requests to 'Belegarbeit_Quellenkodierung_MGolnik.
@@ -740,10 +738,10 @@ run.xml'.
 
  ) 
 Here is how much of TeX's memory you used:
- 14059 strings out of 478621
- 261534 string characters out of 2843730
- 773902 words of memory out of 3000000
- 31985 multiletter control sequences out of 15000+600000
+ 14058 strings out of 478621
+ 261522 string characters out of 2843730
+ 772919 words of memory out of 3000000
+ 31984 multiletter control sequences out of 15000+600000
  424628 words of font info for 78 fonts, out of 8000000 for 9000
  1143 hyphenation exceptions out of 8191
  69i,8n,79p,1880b,2241s stack positions out of 5000i,500n,10000p,200000b,80000s
@@ -769,10 +767,10 @@ ppData/Local/Programs/MiKTeX/fonts/type1/public/cm-super/sfrm1200.pfb><C:/Users
 <C:/Users/MiN0DE/AppData/Local/Programs/MiKTeX/fonts/type1/public/cm-super/sfti
 1095.pfb><C:/Users/MiN0DE/AppData/Local/Programs/MiKTeX/fonts/type1/public/cm-s
 uper/sftt1095.pfb>
-Output written on Belegarbeit_Quellenkodierung_MGolnik.pdf (16 pages, 463603 by
+Output written on Belegarbeit_Quellenkodierung_MGolnik.pdf (15 pages, 467587 by
 tes).
 PDF statistics:
- 153 PDF objects out of 1000 (max. 8388607)
+ 150 PDF objects out of 1000 (max. 8388607)
  0 named destinations out of 1000 (max. 500000)
  26 words of extra memory for PDF output out of 10000 (max. 10000000)
 
