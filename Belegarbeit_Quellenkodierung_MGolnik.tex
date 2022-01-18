@@ -13,7 +13,7 @@
 
 \date{\today}
 \title{Belegarbeit zur Quellencodierungsmethode \textbf{"Run-Length Encoding"} im Modul "statistische Nachrichtentheorie"}
-\author{Von: Monique Golnik (563075) \\ \\Dozent: Prof. Dr. Christoph Lange \\Master Informations- Kommunikationstechnik WS 2021/22}
+\author{Von: Monique Golnik (563075) \\ \\Dozent: Prof. Dr. Christoph Lange \\Master Informations- und Kommunikationstechnik WS 2021/22}
 
 \begin{document}
 
@@ -34,7 +34,7 @@
 	
 		Bei der Quellencodierung ist es das Ziel, dass die Symbolentropie erhöht und so die Redundanz reduziert wird. Sie ist eine eineindeutige Darstellung der Quelleninformation in einer realisierbaren und möglichst redundanzfreien beziehungsweise -armen Form.
 		
-		Die Aufgabe der Quellencodierung ist die Codierung eines Datensatzes, der von einer Informationsquelle abgegeben wurde, in einen Binärcode mit möglichst kleiner Stellenzahl. \cite[Seite 47 ff.]{Lange2021}
+		Die Aufgabe der Quellencodierung besteht darin einen Datensatz, der von einer Informationsquelle abgegeben wurde, in einen Binärcode mit möglichst kleiner Stellenzahl zu codieren. \cite[Seite 47 ff.]{Lange2021}
 	     
 	    \enquote{Bei der Datenkompression werden Dateien in eine alternative Darstellung überführt, die effizienter ist als die ursprüngliche. Ziel dieser Codierung ist es, sowohl den benötigten Speicherplatz als auch die Übertragungszeit zu verringern.} \cite{IONOS} 
 	
@@ -100,21 +100,8 @@
   		  
   		  In der Abbildung \ref{Lange} enthält der Datensatz Buchstaben, Ziffern und  Zeichen. Damit dennoch sinnvolle Sequenzen zusammengefasst werden und der Speicherbedarf verringert werden kann, wird in diesem Beispiel mit dem Sonderzeichen \textit{backslash} codiert.
   		  
-  		  Der Kompressionsgrad von Run-Length Encoding hängt stark von der Charakteristik der Quelldaten ab. \cite[Seite 62]{Lange2021} Wie sich dieser äußert wird im Abschnitt  \textbf{Einsatz \& Anwendungsbeispiele} verdeutlicht. Folgend werden jedoch erst die  Vor- und Nachteile dieser Methode aufgeführt.
-  		 
-  		 
-  		 
-	
-		\section{Vor- und Nachteile gegenüber anderen Verfahren}
-		
-		Das RLE-Verfahren zeichnet sich durch seine Geschwindigkeit sowie Einfachheit bei der Implementierung aus und ermöglicht zudem  eine signifikante Datenkompression, wie im nachfolgendem Kapitel \textbf{Einsatz \& Anwendungsbeispiele} veranschaulicht wird. Zudem gehört sie zu den verlustfreien Kompressionsmethoden, die bei der Dekomprimierung eine vollständige Wiederherstellung des gesendeten Datensatzes ermöglicht.
-
-		Auch wenn RLE nennenswerte Vorteile bietet, ist es jedoch zur Kompression komplexer\footnote{komplex hier im Sinne von detailreich oder verrauscht} (Farb-)Bilder sowie Texte ungeeignet- auch wenn das Verfahren weiterentwickelt wurde und dadurch die Zunahme des Datenvolumens bei Reihen ohne Wiederholungen kein Problem mehr darstellt, so sind die Kompressionsraten bei solchen Bildern doch denkbar schlecht. \cite{Koeck2006} Der sinnvolle Einsatz von RLE beschränkt sich daher auf Datenströme, die über einen nennenswerten Anteil an \textbf{Runs} verfügt.	Bei sehr kleinen Zeichenfolgen kann es passieren, dass sich die Daten sogar vergrößern. Hierbei müsste vorher eine Mindestanzahl von Werten die zusammengefügt werden sollen, gesetzt werden, um zu ermitteln, ab wann  bei einem vorgesehen Einsatz die Lauflängencodierung sinnvoll ist oder sogar eine Verschlechterung zu erwarten wäre.
-		
-		
-		
-		
-		
+  		  Der Kompressionsgrad von Run-Length Encoding hängt stark von der Charakteristik der Quelldaten ab. \cite[Seite 62]{Lange2021} Wie sich dieser äußert wird im folgenden Abschnitt  \textbf{Einsatz \& Anwendungsbeispiele} verdeutlicht.
+  	
 		\section{Einsatz \& Anwendungsbeispiele}
 		Die Lauflängencodierung findet Anwendung bei verschiedenen Grafikdateiformaten, wie beispielsweise dem TIFF\footnote{TIFF = Tagged Image File Format, Standardformat für Druckproduktion}, dem TGA\footnote{Targa Image File, z.B. Vorschaubild}- und dem Bitmap\footnote{Grafik, die von einzelnen Pixeln in einem Raster dargestellt werden}- Dateiformat. In diesem Kapitel werden  Beispiele aus unterschiedlichen Bereichen dargestellt, um zu veranschaulichen, wo sich die Lauflängencodierung eignet und wie sie angewandt wird.
 	
@@ -123,7 +110,7 @@
 		 \begin{figure} [H]
 			\begin{center}
 				\includegraphics[width=0.25\textwidth]{Mäander.png}
-				\caption{Wegoptimierung: Mäanderförmig}
+				\caption{Wegoptimierung \textit{mäanderförmig}}
 				\cite{kocerheiztech}
 				\label{mäander}
 			\end{center}
@@ -143,34 +130,34 @@
 				\end{figure}
 		
 
-		Diese Art der Kompression lässt sich nicht nur auf Grafiken anwenden, sondern auch auf Zeichenketten, wie beispielsweise die \textbf{Abfolge bestimmter Nukleinbasen}. Hierbei werden anstatt der RGB-Farbwerte ASCII- Zeichen genutzt.  Im folgenden Beispiel wird die Sequenz der Nukleinbasen (U,G,C,A) zur Verdeutlichung codiert und ausgewertet.\cite{Juchim2021}
+		Diese Art der Kompression lässt sich nicht nur auf Grafiken anwenden, sondern auch auf Zeichenketten, wie beispielsweise die \textbf{Abfolge bestimmter Nukleinbasen}. Hierbei werden anstatt der RGB-Farbwerte ASCII- Zeichen genutzt.  Im folgenden Beispiel wird die Sequenz der Nukleinbasen (A, C, G , U) zur Verdeutlichung codiert und ausgewertet.\cite{Juchim2021}
 
-		Als Beispieldatensatz dient die Basenabfolge \textbf{A G G U A} C G  .., wobei auf Grund der Übersichtlichkeit nur die ersten 5 Zeichen codiert und ausgewertet werden. Der dazugehörige \textit{ASCII-Code} lautet dementsprechend \textbf{01000001 01000111 01000111 01010101 01000001 } und ist bereits bei nur 5 Buchstaben sehr lang.
-		Es wäre nun möglich eine binäre Codierung vorzunehmen, da in diesem Beispiel nur vier unterschiedliche Zeichen (Buchstaben) auftauchen, würden 2 Bit für eine eindeutige Zuordnung ausreichen: 
+		Als Beispieldatensatz dient die Basenabfolge \textbf{A G G U A} C G  .., wobei auf Grund der Übersichtlichkeit nur die ersten 5 Zeichen codiert und ausgewertet werden. Der dazugehörige binäre \textit{ASCII-Code} lautet dementsprechend \textbf{01000001 01000111 01000111 01010101 01000001 } und ist bereits bei nur 5 Buchstaben sehr lang.
+		Es wäre nun möglich eine eigene binäre Codierung vorzunehmen, da in diesem Beispiel nur vier unterschiedliche Zeichen (Buchstaben) auftauchen, würden 2 Bit für eine eindeutige Zuordnung ausreichen: 
 			
 		\begin{table} [H]
 				\begin{center}
 				\centering
 				\begin{tabular}{lllll}
-					Zahl  & Binär & Zeichen &  &  \\
+					Position  & Binär & Zeichen &  &  \\
 					0 & 00    & A       &  &  \\
 					1 & 01    & C       &  &  \\
 					2 & 10    & G       &  & \\
 					3 & 11	  & U
 				\end{tabular}
-			\caption{Binärcodierungstabelle für Beispiel-Zeichen}
+			\caption{Zuordnungstabelle für Beispiel-Zeichen}
 			\end{center}
 			\end{table}
 	   
 	    Dadurch würde sich die betrachtete Sequenz auf \textbf{00 10 10 11 00} kürzen. Die Kompressionsrate ist bereits hier merklich gestiegen, wurden zuvor noch 8 Bit benötigt, sind es jetzt nur noch 2, was bedeutet, dass der erforderlicher Speicherplatz auf 25\% komprimiert werden konnte. Jedoch darf hierbei nicht vergessen werden, dass die Zuordnungstabelle bisher nur dem Sender bekannt ist, diese muss für eine Dekompression allerdings auch dem Empfänger bekannt sein - Daher muss die Tabelle beispielsweise im  Dateikopf mit übertragen werden. Das entspricht daher einen tatsächlichen Bedarf von $4 * (2 +8)$ Bit $= 40$ Bit allein für die Tabelle - bis hier würde sich bei dieser Übertragung wider erwartend eher ein Nachteil ergeben (Bei der Kürze des hier genutzten Datensatzes).
 		
-		Da die binäre Codierung ineffizient zu sein scheint, wird nun zum Vergleich mit der  \textbf{RLE-Methode} codiert: 
+		Da die binäre Codierung ineffizient zu sein scheint, wird nun zum Vergleich mit der  \textbf{RLE-Methode} und ebenfalls 2 Bit codiert um einen Vergleich herzustellen: 
 		
 				\begin{table} [H]
 				\begin{center}
 					\centering
-					\begin{tabular}{llllll}
-						Code  & Zeichen & Code & Zahl & &  \\
+					\begin{tabular}{ll|llll}
+						Code  & Zeichen & Code & Anzahl & &  \\ 
 						00 & A    & 00    & 1   &  &  \\
 						01 & C    & 01   & 2  &  &  \\
 				     	10 & G    & 10    & 3  &  & \\
@@ -178,7 +165,7 @@
 						
 					\end{tabular}
 					\label{RLE}		
-					\caption{RLE-Codiertabelle für Beispiel-Zeichen}
+					\caption{2-Bit RLE-Codiertabelle für Beispiel-Zeichen}
 				\end{center}
 				\end{table}
 		
@@ -201,7 +188,7 @@
 						
 					\end{tabular}
 					\label{CT}		
-					\caption{gemeinsame Codiertabelle}
+					\caption{3-Bit RLE-Codiertabelle für Beispiel-Zeichen}
 				\end{center}
 			\end{table}
 		
@@ -209,8 +196,14 @@
 		
 		Die Beispiele könnten  in unterschiedlichsten Ausmaßen weiter geführt werden, jedoch liegt der Fokus hierbei darauf, ein Verständnis der Funktionsweise in unterschiedlichen Anwendungsgebieten zu vermitteln. Ebenfalls konnten durch die aufgeführten Beispielszenarien bereits erste Vor- und Nachteile angedeutet werden, welche im nächsten Abschnitt zusammengefasst  werden.
 	
-
+ 		\section{Vor- und Nachteile gegenüber anderen Verfahren}
+ 		
+ 		Das RLE-Verfahren zeichnet sich durch seine Geschwindigkeit sowie Einfachheit bei der Implementierung aus und ermöglicht zudem  eine signifikante Datenkompression, wie im vorherigen Kapitel \textbf{Einsatz \& Anwendungsbeispiele} veranschaulicht wird. Zudem gehört sie zu den verlustfreien Kompressionsmethoden, die bei der Dekomprimierung eine vollständige Wiederherstellung des gesendeten Datensatzes ermöglicht.
+ 		
+ 		Auch wenn RLE nennenswerte Vorteile bietet, ist es jedoch zur Kompression komplexer\footnote{komplex hier im Sinne von detailreich oder verrauscht} (Farb-)Bilder sowie Texte ungeeignet- auch wenn das Verfahren weiterentwickelt wurde und dadurch die Zunahme des Datenvolumens bei Reihen ohne Wiederholungen kein Problem mehr darstellt, so sind die Kompressionsraten bei solchen Bildern doch denkbar schlecht. \cite{Koeck2006} Der sinnvolle Einsatz von RLE beschränkt sich daher auf Datenströme, die über einen nennenswerten Anteil an \textbf{Runs} verfügt.	Bei sehr kleinen Zeichenfolgen kann es passieren, dass sich die Daten sogar vergrößern. Hierbei müsste vorher eine Mindestanzahl von Werten die zusammengefügt werden sollen, gesetzt werden, um zu ermitteln, ab wann  bei einem vorgesehen Einsatz die Lauflängencodierung sinnvoll ist oder sogar eine Verschlechterung zu erwarten wäre.
 		
+	
+	
 	
 	\chapter{Fazit}
 	An den aufgeführten Anwendungsbeispielen wird deutlich, dass dieses Codierverfahren nicht perfekt ist, jedoch bereits einen ursprünglich hohen Speicherplatzbedarf deutlich komprimieren  und der Datensatz ohne Verluste wieder dekomprimiert werden kann.

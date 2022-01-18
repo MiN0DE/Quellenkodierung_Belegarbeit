@@ -9,16 +9,16 @@
 \defcounter {refsection}{0}\relax 
 \contentsline {section}{\numberline {3.1}Redundanz-Kompression durch RLE}{4}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.2}Vor- und Nachteile gegenüber anderen Verfahren}{6}{}%
+\contentsline {section}{\numberline {3.2}Einsatz \& Anwendungsbeispiele}{6}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {section}{\numberline {3.3}Einsatz \& Anwendungsbeispiele}{6}{}%
+\contentsline {section}{\numberline {3.3}Vor- und Nachteile gegenüber anderen Verfahren}{9}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {4}Fazit}{10}{}%
+\contentsline {chapter}{\numberline {4}Fazit}{11}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{\numberline {5}Eigenständigkeitserklärung}{11}{}%
+\contentsline {chapter}{\numberline {5}Eigenständigkeitserklärung}{12}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Abbildungsverzeichnis}{11}{}%
+\contentsline {chapter}{Abbildungsverzeichnis}{12}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Tabellenverzeichnis}{12}{}%
+\contentsline {chapter}{Tabellenverzeichnis}{13}{}%
 \defcounter {refsection}{0}\relax 
-\contentsline {chapter}{Quellenverzeichnis}{14}{}%
+\contentsline {chapter}{Quellenverzeichnis}{15}{}%
